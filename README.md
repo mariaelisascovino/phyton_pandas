@@ -41,24 +41,22 @@ Utilizando o MEAD, MEDIAN e MODE foi realizado o cálculo da MÉDIA, MEDIANA e M
 
 Com esses cálculos de média, mediana e moda foram realizadas algumas conclusões que ajudaram na resolução de questões, como:
 
-<em>
-- De acordo com os dados, advogar ou ser representante de vendas faz você dormir menos?
+<ul><em>
+<li>De acordo com os dados, advogar ou ser representante de vendas faz você dormir menos?</li> 
   
-- Quem tem maior pressão sanguínea média, homens ou mulheres?
+<li>Quem tem maior pressão sanguínea média, homens ou mulheres?</li> 
   
--Pessoas com frequências cardíacas acima de 70 dão mais passos que pessoas com frequência cardíaca menor ou igual a 70?
+<li>Pessoas com frequências cardíacas acima de 70 dão mais passos que pessoas com frequência cardíaca menor ou igual a 70?</li> 
 
-
-
-</em>
+</em></ul>
 
 Utilizando operadores aritméticos, filtragem por coluna e SHAPE foram extraídas informações do dataframe,tais como:
 
-<em>
+<ul><em>
 
--Das pessoas que atuam com engenharia de software qual a porcentagem de obesos?
+<li>Das pessoas que atuam com engenharia de software qual a porcentagem de obesos?</li>
 
-- Filtrar ou criar dataframe com apenas colunas específicas.
+<li> Filtrar ou criar dataframe com apenas colunas específicas.</li>
 
 
-</em>
+</em></ul>
