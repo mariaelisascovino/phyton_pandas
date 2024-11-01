@@ -10,6 +10,7 @@ Uso de Python com a biblioteca Pandas. Análise do dataframe em csv sobre saúde
 - Edição e conversão de dados.
 
 DATAFRAME SOBRE DISTÚRBIOS DO SONO
+
 O dataframe analisado reúne informações de pessoas com suas ocupações, dados pessoais e médicos como idade e pressão sanguínea e uma coluna que traz a informação de distúrbio de sono dividida em 3 categorias: apnéia do sono, insônia e nenhuma. 
 
 Ele possui 373 linhas e 13 colunas e não possui valores nulos.
@@ -22,4 +23,27 @@ LEITURA INICIAL DO DATAFRAME:
 Após a leitura do arquivo no Google Colab e nomeando o dataframe como df_saude_do_sono_estilo_vida foram feitas algumas análises:
 
 RENOMEANDO ALGUMAS COLUNAS PARA MELHOR IDENTIFICAÇÃO:
-Utilizando o método rename foram renomeadas as colunas ID, Pressão sanguíneaaaa, Ocupação, Categoria BMI
+
+Utilizando o método RENAME foram renomeadas as colunas ID, Pressão sanguíneaaaa, Ocupação, Categoria BMI para Identificador, Pressão Sanguínea, Profissão e Categoria IMC.
+
+![colunas](https://github.com/user-attachments/assets/d59ad02d-934d-40d2-9847-bfd61ff7d1cd)
+
+
+Utilizando o método COUNT foi levantado o dado de número de pessoas por profissão:
+
+![quantidade_prof](https://github.com/user-attachments/assets/61770d94-b9ce-4111-9e34-04352152500a)
+
+
+
+Utilizando o MEAD, MEDIAN e MODE foi realizado o cálculo da MÉDIA, MEDIANA e MODA das horas de sono para cada uma das profissões:
+
+![med](https://github.com/user-attachments/assets/b2aa24c6-3f81-4221-a1da-b088b029e930)
+
+Com esses cálculos de média, mediana e moda foram realizadas algumas conclusões que ajudaram na resolução de questões, como:
+
+<strong>De acordo com os dados, advogar ou ser representante de vendas faz você dormir menos?<strong>
+
+Utilizando operadores aritméticos, filtragem por coluna e SHAPE foram extraídas informações do dataframe.
+
+
+
