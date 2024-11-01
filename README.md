@@ -22,18 +22,20 @@ LEITURA INICIAL DO DATAFRAME:
 
 Após a leitura do arquivo no Google Colab e nomeando o dataframe como df_saude_do_sono_estilo_vida foram feitas algumas análises:
 
-RENOMEANDO ALGUMAS COLUNAS PARA MELHOR IDENTIFICAÇÃO:
+<strong>Renomeando algumas colunas para melhor identificação:</strong>
 
 Utilizando o método RENAME foram renomeadas as colunas ID, Pressão sanguíneaaaa, Ocupação, Categoria BMI para Identificador, Pressão Sanguínea, Profissão e Categoria IMC.
 
 ![colunas](https://github.com/user-attachments/assets/d59ad02d-934d-40d2-9847-bfd61ff7d1cd)
 
+<strong> Contagem de dados </strong>
 
 Utilizando o método COUNT foi levantado o dado de número de pessoas por profissão:
 
 ![quantidade_prof](https://github.com/user-attachments/assets/61770d94-b9ce-4111-9e34-04352152500a)
 
 
+<strong> Calculando médias, medianas e moda<strong>
 
 Utilizando o MEAD, MEDIAN e MODE foi realizado o cálculo da MÉDIA, MEDIANA e MODA das horas de sono para cada uma das profissões:
 
@@ -49,6 +51,8 @@ Com esses cálculos de média, mediana e moda foram realizadas algumas conclusõ
 <li>Pessoas com frequências cardíacas acima de 70 dão mais passos que pessoas com frequência cardíaca menor ou igual a 70?</li> 
 
 </em></ul>
+
+<strong> Extraindo outras informações</strong>
 
 Utilizando operadores aritméticos, filtragem por coluna e SHAPE foram extraídas informações do dataframe,tais como:
 
