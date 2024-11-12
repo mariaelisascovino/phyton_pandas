@@ -70,7 +70,7 @@ Utilizando operadores aritméticos, filtragem por coluna e SHAPE foram extraída
 
 <strong><li>De acordo com os dados, advogar ou ser representante de vendas faz você dormir menos?</li></strong>
 <br>
-É possível verificar que a profissão representante de vendas possui a menor média , mediana e moda e portanto é a profissão que menos dorme dentre todas, inclusive em relação ao advogado que possui a maior média de horas de sono segundo a análise. Com base nesses dados pode-se pensar em medidas para melhorar a qualidade de sono desses profissionais, talvez repensando a escala e volume de trabalho por colaborador ou ainda realizar outras análises e pesquisas que nos forneça mais informações do por quê. 
+É possível verificar que a profissão representante de vendas possui a menor média , mediana e moda e portanto é a profissão que menos dorme dentre todas, inclusive em relação ao advogado que possui uma das maiores médias de horas de sono segundo a análise, perdendo apenas para os engenheiros. Com base nesses dados pode-se pensar em medidas para melhorar a qualidade de sono desses profissionais, talvez repensando a escala e volume de trabalho por colaborador ou ainda realizar outras análises e pesquisas que nos forneça mais informações do por quê. 
 
 <strong><li>Quem tem maior pressão sanguínea média, homens ou mulheres?</li> </strong>
 
